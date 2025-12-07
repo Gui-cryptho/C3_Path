@@ -35,7 +35,6 @@ Meus Downloads/t2.rar
 - O caractere `/` separa diretórios.  
 - Arquivos sempre possuem extensão (`.doc`, `.c`, `.ppt`, etc).  
 
----
 
 ## 💻 Comandos Implementados
 
