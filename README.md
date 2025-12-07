@@ -17,21 +17,21 @@ Deve ser possível navegar pelos diretórios através da árvore.
 
 O arquivo `in.txt` segue a sintaxe:
 
-Arquivos e Programas/Firefox 
-Arquivos e Programas/Chrome 
-Arquivos e Programas/Opera 
-Meus Documentos/apresentacao.ppt 
-Meus Documentos/relatorio.doc 
-Meus Documentos/fontes 
-Meus Documentos/fontes/main.c 
-Meus Documentos/fontes/main.h 
-Meus Documentos/imagens 
-Meus Downloads/7zip.exe 
-Meus Downloads/t2.rar
-
+Arquivos e Programas/Firefox  
+Arquivos e Programas/Chrome  
+Arquivos e Programas/Opera  
+Meus Documentos/apresentacao.ppt  
+Meus Documentos/relatorio.doc  
+Meus Documentos/fontes  
+Meus Documentos/fontes/main.c  
+Meus Documentos/fontes/main.h  
+Meus Documentos/imagens  
+Meus Downloads/7zip.exe  
+Meus Downloads/t2.rar  
 
 - O caractere `/` separa diretórios.  
 - Arquivos sempre possuem extensão (`.doc`, `.c`, `.ppt`, etc).  
+
 
 
 ## 💻 Comandos Implementados
