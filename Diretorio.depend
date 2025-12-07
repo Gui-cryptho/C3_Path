@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765140429 source:c:\users\guilh\onedrive\documents\new folder\ides\codeblocks\c-udemy\diretorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"path.h"
+
+1765140886 c:\users\guilh\onedrive\documents\new folder\ides\codeblocks\c-udemy\diretorio\path.h
+
+1765140980 source:c:\users\guilh\onedrive\documents\new folder\ides\codeblocks\c-udemy\diretorio\path.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"path.h"
+
