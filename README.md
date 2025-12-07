@@ -15,8 +15,6 @@ Deve ser possível navegar pelos diretórios através da árvore.
 
 ## 📂 Escopo
 
----
-
 O arquivo `in.txt` segue a sintaxe:
 
 Arquivos e Programas/Firefox 
